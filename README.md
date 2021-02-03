@@ -17,7 +17,7 @@ library(devtools)
 After this, you can install packages from GitHub by using the R-function ```install_github``` and specifying the author and package name. For example, if you want to install the R-package **taxaEstimator**, just type the following:
 
 ```r
-install_github("Moritz-Kohls/taxaEstimator")
+install_github("klausjung-hannover/taxaEstimator")
 ```
 
 Type `help(package = taxaEstimator)` to open the package's help page.
